@@ -102,5 +102,5 @@ Add predictive sales forecasting
 Dhruv Gujar
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-![Dhruv Gujar]([profile.jpg](https://github.com/dhruvgujar1/Car-Sale-PowerBi-Dashboard/blob/main/Screenshot%202025-11-25%20141408.png))
+![Car-Sale-PowerBi-Dashboard]([profile.jpg](https://github.com/dhruvgujar1/Car-Sale-PowerBi-Dashboard/blob/main/Screenshot%202025-11-25%20141408.png))
 
